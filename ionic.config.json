@@ -1,0 +1,7 @@
+{
+  "name": "App-Raccordement-Gardian",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
